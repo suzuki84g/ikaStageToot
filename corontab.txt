@@ -1,4 +1,4 @@
 #crontab設定
-30 08 * * * /home/suzuki/.nodebrew/current/bin/node /home/suzuki/project/stage_info/07oclock.js
-00 12 * * * /home/suzuki/.nodebrew/current/bin/node /home/suzuki/project/stage_info/12oclock.js
-01 0-23/2 * * * /home/suzuki/.nodebrew/current/bin/node 
+30 08 * * * /home/suzuki/.nodebrew/current/bin/node /home/suzuki/project/ikaStageToot/0830toot.js
+00 12 * * * /home/suzuki/.nodebrew/current/bin/node /home/suzuki/project/ikaStageToot/1200toot.js
+01 0-23/2 * * * /home/suzuki/.nodebrew/current/bin/nodebrew
